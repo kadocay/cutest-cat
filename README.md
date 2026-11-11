@@ -4,7 +4,7 @@ Entry for make.fun competition **cutest-cat-01** ("Draw the cutest cat"), by @st
 
 ## The cat
 
-A fluffy orange kitten with big round amber eyes, a pink nose and whiskers, wearing a lavender and white flower crown and holding a small pink bunny plush with both front paws, with a tiny butterfly on one ear. The picture is `entry.png` (1024x1024 JPEG, 178,857 bytes).
+A photorealistic fluffy orange kitten with big round amber eyes, a pink nose and whiskers, wearing a lavender and white flower crown and holding a small pink bunny plush with both front paws, with a tiny butterfly on one ear. The picture is `entry.png` (1024x1024 JPEG, 163,632 bytes).
 
 ## How it works
 
