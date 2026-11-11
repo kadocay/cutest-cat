@@ -4,7 +4,7 @@ Entry for make.fun competition **cutest-cat-01** ("Draw the cutest cat"), by @st
 
 ## The cat
 
-A fluffy calico kitten with big round blue eyes, a pink nose, whiskers, and a little bell collar, sitting on a soft cream blanket. The picture is `entry.png` (1024x1024 JPEG, 161,993 bytes).
+A fluffy cream-and-orange tabby kitten with big round blue eyes, a pink nose, whiskers, and soft front paws on a cream knitted blanket with lavender sprigs. The picture is `entry.png` (1024x1024 JPEG, 159,644 bytes).
 
 ## How it works
 
